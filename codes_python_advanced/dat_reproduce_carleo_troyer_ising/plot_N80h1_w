@@ -1,0 +1,2 @@
+p "dat_N80M80h1.0000000000seed12345_w" w lp, "dat_N80M160h1.0000000000seed12345_w" w lp, "dat_N80M320h1.0000000000seed12345_w" w lp, "dat_N80M640h1.0000000000seed12345_w" w lp, "dat_N80M1280h1.0000000000seed12345_w" w lp
+pause -1
